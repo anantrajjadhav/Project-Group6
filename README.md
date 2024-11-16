@@ -23,7 +23,7 @@
 | `soil_moisture`         | Moisture content in the soil (useful in some models)                           | Continuous       | %                      | 15, 40                          |                              |      |
 
 ---
-Elevation dataset
+[Elevation dataset](https://github.com/anantrajjadhav/Project-Group6/blob/main/terrain_characteristics_all.csv)
 
 
 ![image](https://github.com/user-attachments/assets/cef0d0cb-de54-4fad-bafa-dbb9a91a8e60)
