@@ -22,3 +22,8 @@
 | `weather_events`        | Major weather events like thunderstorms or cyclones                            | Categorical      | N/A                    | "Thunderstorm", "None"          |                              |      |
 | `soil_moisture`         | Moisture content in the soil (useful in some models)                           | Continuous       | %                      | 15, 40                          |                              |      |
 
+---
+Elevation dataset
+
+
+![image](https://github.com/user-attachments/assets/cef0d0cb-de54-4fad-bafa-dbb9a91a8e60)
